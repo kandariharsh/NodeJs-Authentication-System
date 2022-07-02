@@ -12,6 +12,9 @@ password :{
     type  : String,
     required : true
 } ,
+otp :{
+    type  : Number
+},
 date :{
     type : Date,
     default : Date.now
