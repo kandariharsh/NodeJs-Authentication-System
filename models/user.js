@@ -15,6 +15,9 @@ password :{
 otp :{
     type  : Number
 },
+status :{
+    type: Boolean
+},
 date :{
     type : Date,
     default : Date.now
