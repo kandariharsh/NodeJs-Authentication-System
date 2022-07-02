@@ -15,6 +15,12 @@ password :{
 otp :{
     type  : Number
 },
+user_typre :{
+    type:String
+},
+country :{
+    type:String
+},
 status :{
     type: Boolean
 },
